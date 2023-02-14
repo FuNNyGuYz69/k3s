@@ -185,14 +185,14 @@ require (
 	github.com/containerd/fifo v1.0.0 // indirect
 	github.com/containerd/go-cni v1.1.3 // indirect
 	github.com/containerd/go-runc v1.0.0 // indirect
-	github.com/containerd/imgcrypt v1.1.3 // indirect
+	github.com/containerd/imgcrypt v1.1.4 // indirect
 	github.com/containerd/nri v0.1.0 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.11.4 // indirect
 	github.com/containerd/ttrpc v1.1.0 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/containernetworking/cni v1.1.0 // indirect
 	github.com/containernetworking/plugins v1.1.1 // indirect
-	github.com/containers/ocicrypt v1.1.2 // indirect
+	github.com/containers/ocicrypt v1.1.3 // indirect
 	github.com/coreos/go-oidc v2.1.0+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
@@ -275,7 +275,7 @@ require (
 	github.com/mdlayher/genetlink v1.1.0 // indirect
 	github.com/mdlayher/netlink v1.4.2 // indirect
 	github.com/mdlayher/socket v0.0.0-20211102153432-57e3fa563ecb // indirect
-	github.com/miekg/pkcs11 v1.0.3 // indirect
+	github.com/miekg/pkcs11 v1.1.1 // indirect
 	github.com/mindprince/gonvml v0.0.0-20190828220739-9ebdce4bb989 // indirect
 	github.com/minio/md5-simd v1.1.2 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
